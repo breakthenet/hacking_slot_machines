@@ -7,7 +7,6 @@ This code allows you to win the jackpot every time.
 
 Enjoy!
 
-![](quiz.gif)
 
 Here's the pipeline:
 
